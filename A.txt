@@ -1,8 +1,14 @@
+<<<<<<< Updated upstream
 Error
 //fixed
 
 
 
+=======
+Feature 1
+// some login code with otp 
+//75%
+>>>>>>> Stashed changes
 
 judo
 Jiu jitsu 
